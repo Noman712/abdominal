@@ -1,0 +1,14 @@
+---
+Comments: ''
+Direction: forward
+Lex: 'no'
+Regex: \bno\b
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+---
+Comments: ''
+Direction: forward
+Lex: no definite
+Regex: no[\s]*definite
+Type: DEFINITE_NEGATED_EXISTENCE
+---
